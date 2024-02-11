@@ -1,0 +1,5 @@
+print("Welcome guys!")
+cityOfBirth = input("What is the city you were born?\n")
+nameOfPet = input("What is your pets name?\n")
+Combination = str(cityOfBirth) + " " + str(nameOfPet)
+print("This is your band name: " + Combination)
