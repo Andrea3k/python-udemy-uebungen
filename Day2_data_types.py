@@ -8,6 +8,8 @@ print("Hello"[0])
 
 #integer 
 
+32465
+
 # die unterstriche Teilen die Zahl auf zur besseren Lesbarkeit - werden nicht ausgegeben
 123_456_789
 
@@ -19,3 +21,10 @@ print("Hello"[0])
 
 True 
 False 
+
+# funktion, die prüft, welcher datentyp die variable in der klammer hat
+type()
+
+# convert types z.b. einen integer in string verwandeln
+
+a = str(a)
