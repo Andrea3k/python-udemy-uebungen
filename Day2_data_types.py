@@ -28,3 +28,4 @@ type()
 # convert types z.b. einen integer in string verwandeln
 
 a = str(a)
+
