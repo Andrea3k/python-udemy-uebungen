@@ -30,3 +30,11 @@ elif second_position == 3:
 map[j][i] = "X"
 
 print(f"{line1}\n{line2}\n{line3}")
+
+#postition = input()
+
+# letter = position[0].lower()
+# abc = ["a", "b", "c"]
+# letter_index = abc.index(letter)
+# number_index = int(position[1])-1
+# map[number_index][letter_index] = "X"
