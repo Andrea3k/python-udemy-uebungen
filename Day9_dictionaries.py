@@ -6,6 +6,11 @@
 # more than one Key: Value pair --> getrennt durch , 
 # array geht nicht als Key, aber man kann auch 123 nicht als string 
 
+# student_grades = dict() --> 
+# student_grades = list() --> array
+# student_grades = set() --> keine Duplicate
+# student_grades = tuple() --> unveränderbar 
+
 programming_dictionary = {
     "Bug": "An error in a program that prevents the program from running as expected.", 
     "Function": "A piece of code that you can easily call over and over again.", 
