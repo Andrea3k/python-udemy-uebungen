@@ -20,6 +20,7 @@ month = int(input("please enter a month: \n"))
 leap_year = is_leap(year)
 
 def days_in_month(year, month):
+    """gives back the amount of days in the month"""
     month_days = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
     leap_year = is_leap(year)
     if leap_year == True and month == 2: 
