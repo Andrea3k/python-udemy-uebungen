@@ -29,12 +29,9 @@ dict_name_bid = add_name_bid(name, bid)
 current_bid = 0
 def highest_bid(): 
     for n in dict_name_bid: 
-        if current_bid < dict_name_bid[n]
-            n = n + 1 
-        elif current_bid == dict_name_bid[n]
-
-        else: 
-        return ()
+        
+        if current_bid > dict_name_bid[n]
+            
 
 
 
